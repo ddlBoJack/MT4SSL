@@ -1,0 +1,1 @@
+from .model_criterion import Multi2VecCriterion
