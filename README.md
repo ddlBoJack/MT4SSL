@@ -14,7 +14,9 @@
 ## Guides
 
 MT4SSL is a multi-task learning framework for speech-based self-supervised learning. 
+
 MT4SSL optimizes the model with offline targets and online targets simultaneously. 
+
 MT4SSL achieves good performance and convergence. Relatively low WER on the speech recognition task can be obtained with only a few pre-training steps. 
 
 
