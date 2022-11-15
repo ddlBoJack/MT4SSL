@@ -128,8 +128,16 @@ python examples/speech_recognition/new/infer.py \
 
 ## Citation
 
-Coming soon. 
-
+``` latex
+@article{
+  title = {MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets},
+  author = {Ma, Ziyang and Zhen, Zhisheng and Tang, Changli and Wang, Yujin and Chen, Xie},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  year={2022},
+  url = {https://arxiv.org/abs/2211.07321}
+}
+```
 
 
 ## License
