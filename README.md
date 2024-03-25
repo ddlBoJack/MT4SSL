@@ -129,12 +129,11 @@ python examples/speech_recognition/new/infer.py \
 ## Citation
 
 ``` latex
-@article{ma2022mt4ssl,
+@inproceedings{ma2022mt4ssl,
   title={MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets},
   author={Ma, Ziyang and Zhen, Zhisheng and Tang, Changli and Wang, Yujin and Chen, Xie},
-  journal={arXiv preprint arXiv:2211.07321},
-  year={2022},
-  url = {https://arxiv.org/abs/2211.07321}
+  booktitle={Proc. Interspeech},
+  year={2023}
 }
 ```
 
